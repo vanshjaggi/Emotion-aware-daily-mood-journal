@@ -1,0 +1,7 @@
+flask
+streamlit
+opencv-python
+tensorflow
+numpy
+textblob
+sqlalchemy
