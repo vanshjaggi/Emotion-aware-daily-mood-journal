@@ -33,3 +33,6 @@ def fetch_entries():
     rows = c.fetchall()
     conn.close()
     return rows
+
+if __name__ == "__main__":
+    init_db()
